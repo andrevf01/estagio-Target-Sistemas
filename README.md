@@ -1,0 +1,1 @@
+No arquivo main.js estão contidas as 5 questões envolvidas no processo seletivo de estágio em Desenvolvimento da Traget Sistemas.
